@@ -13,7 +13,7 @@
 # 🤝 Let’s Connect
 - 💼 LinkedIn: [*GagShiv*](https://www.linkedin.com/in/gagshiv/)
 - 📧 Email: [*Click Here*](gaganshivannaofficial@gmail.com)
-- 🌐 Portfolio: [*Click Here*](https://gagan-shivanna.vercel.app/)
+- 🌐 Portfolio: [*Click Here*](https://gagann-shivanna.vercel.app/)
 
 ⭐ Feel free to check out my repositories and reach out!
 
